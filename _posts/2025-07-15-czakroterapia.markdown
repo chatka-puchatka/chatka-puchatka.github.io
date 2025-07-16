@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Travelog Theme"
+title:  "Chatka Puchatka"
 date:   2025-07-15 17:39:55
 categories: relaks, gongi, noclegi
 location: Wach 156, 07-420 Wach, Polska
@@ -215,7 +215,7 @@ Lotnisko Lotnisko Olsztyn-Mazury znajduje się 54 km od obiektu. Goście mogą s
 
 <div class="post-image post-image--split">
     <a href="#">
-        <img src="{{ "/img/chatka/chatka_26.jpg" | prepend: site.baseurl }}" />
+        <img src="{{ "/img/chatka/chatka_26.jpg" | prepend: site.Chatka jest położona w otulinie Puszczy Kurpiowskiej (Zielonej).baseurl }}" />
     </a>
     <a href="#">
         <img src="{{ "/img/chatka/chatka_27.jpg" | prepend: site.baseurl }}" />        
