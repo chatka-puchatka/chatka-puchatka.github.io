@@ -2,9 +2,9 @@
 layout: post
 title:  "The Travelog Theme"
 date:   2014-08-12 17:39:55
-categories: auckland, new-zealand
-location: Auckland, New Zealand
-tags: auckland new-zealand
+categories: relaks, gongi, noclegi
+location: Wach, Polska
+tags: relaks gongi noclegi
 ---
 
 Travelog is a theme for Jekyll that is both elegant and downright simple.
@@ -35,6 +35,3 @@ Like a backpack with too many straps, a blog can sometimes be frustrating when i
     </p>
 </div>
 
-The code can be found on Github [here](https://github.com/rowanoulton/travelog-theme).
-
-Any questions, get at me on Twitter: [@rowanoulton](https://twitter.com/rowanoulton/)
