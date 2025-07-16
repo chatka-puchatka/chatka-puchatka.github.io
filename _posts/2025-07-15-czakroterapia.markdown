@@ -27,24 +27,226 @@ Lotnisko Lotnisko Olsztyn-Mazury znajduje się 54 km od obiektu. Goście mogą s
     <a href="#">
         <img src="{{ "/img/chatka/chatka_3.jpg" | prepend: site.baseurl }}" />        
     </a>
-    <a href="#">
-        <img src="{{ "/img/chatka/chatka_4.jpg" | prepend: site.baseurl }}" />        
-    </a>
-    <a href="#">
-        <img src="{{ "/img/chatka/chatka_5.jpg" | prepend: site.baseurl }}" />        
-    </a>    
 
     <p class="post-image-caption">
     	<span class="post-image-caption-left">
-    		Wokoło las
     	</span>
     	<span class="post-image-caption-right">
-    		Spokój
     	</span>
-    	<span class="post-image-caption-right">
-    		Cisza
-    	</span>
-
     </p>
 </div>
 
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_4.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_5.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_6.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_7.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_8.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_9.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_10.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_11.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_12.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_13.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_14.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_15.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_16.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_17.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_18.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_19.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_20.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_21.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_22.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_23.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_24.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_25.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_26.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_27.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_28.jpg" | prepend: site.baseurl }}" />
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_29.jpg" | prepend: site.baseurl }}" />        
+    </a>
+
+    <p class="post-image-caption">
+    	<span class="post-image-caption-left">
+    	</span>
+    	<span class="post-image-caption-right">
+    	</span>
+    </p>
+</div>
+
+
+<div class="post-image">
+    <img src="{{ "/img/chatka/chatka_30.jpg" | prepend: site.baseurl }}" />
+    <p class="post-image-caption"></p>
+</div>
