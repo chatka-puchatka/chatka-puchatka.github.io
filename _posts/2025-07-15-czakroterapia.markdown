@@ -1,21 +1,23 @@
 ---
 layout: post
 title:  "The Travelog Theme"
-date:   2014-08-12 17:39:55
+date:   2025-07-15 17:39:55
 categories: relaks, gongi, noclegi
 location: Wach 156, 07-420 Wach, Polska
 tags: relaks gongi noclegi
 ---
 
-Travelog is a theme for Jekyll that is both elegant and downright simple.
+Oferta obiektu Chatka Puchatka położonego w miejscowości Wach obejmuje bezpłatne rowery, ogród i taras. W okolicy domku letniskowego panują doskonałe warunki do uprawiania trekkingu i jazdy na rowerze, dostępny jest także bezpłatny prywatny parking.
 
-In addition to being devilishly handsome, it is responsive down to mobile and has a very light footprint. Travelog lends itself well to photography and travel journaling.
+W domku letniskowym do dyspozycji gości przygotowano część wypoczynkową oraz kuchnię z lodówką. Wyposażenie obejmuje też telewizor z płaskim ekranem z dostępem do kanałów satelitarnych. W domku letniskowym zapewniono ręczniki i pościel.
 
-Like a backpack with too many straps, a blog can sometimes be frustrating when it has too many bells and whistles. It is with that philosophy that I have put together this theme so that you might drown in its whitespace.
+Na terenie obiektu Chatka Puchatka znajduje się sprzęt do grillowania.
+
+Lotnisko Lotnisko Olsztyn-Mazury znajduje się 54 km od obiektu. Goście mogą skorzystać z płatnego transferu lotniskowego.
 
 <div class="post-image">
     <img src="{{ "/img/chatka/chatka_1.jpg" | prepend: site.baseurl }}" />
-    <p class="post-image-caption">Using a little bit of markup, you can add beautiful captions to your totally beautiful pictures. Amazing.</p>
+    <p class="post-image-caption">Chatka jest położona w otulinie Puszczy Kurpiowskiej (Zielonej).</p>
 </div>
 
 <div class="post-image post-image--split">
@@ -25,13 +27,24 @@ Like a backpack with too many straps, a blog can sometimes be frustrating when i
     <a href="#">
         <img src="{{ "/img/chatka/chatka_3.jpg" | prepend: site.baseurl }}" />        
     </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_4.jpg" | prepend: site.baseurl }}" />        
+    </a>
+    <a href="#">
+        <img src="{{ "/img/chatka/chatka_5.jpg" | prepend: site.baseurl }}" />        
+    </a>    
+
     <p class="post-image-caption">
     	<span class="post-image-caption-left">
-    		Expanding on this, you can show two images side-by-side
+    		Wokoło las
     	</span>
     	<span class="post-image-caption-right">
-    		And even define separate captions for each.
+    		Spokój
     	</span>
+    	<span class="post-image-caption-right">
+    		Cisza
+    	</span>
+
     </p>
 </div>
 
